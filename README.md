@@ -1,0 +1,1 @@
+This is Sample Hello World Project for getting started with GIT.
